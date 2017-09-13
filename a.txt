@@ -1,3 +1,7 @@
 123
 aaa
+<<<<<<< HEAD
 bbb
+=======
+fenfen
+>>>>>>> fen
